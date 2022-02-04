@@ -1,11 +1,11 @@
-package com.tomgregory;
+package com.bridg.backtrace;
 
 import org.junit.Test;
 
-public class GradleTutorialTest {
+public class JavaBtIntegrationTest {
 
     @Test
     public void verifyNoExceptionThrown() {
-        GradleTutorial.main(new String[]{});
+        JavaBtIntegration.main(new String[]{});
     }
 }
