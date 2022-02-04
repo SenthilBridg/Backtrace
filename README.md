@@ -13,4 +13,4 @@ To build and test the application:
 
 Execute the built jar directly using the `java` command.
 
-`java -jar build/libs/gradle-tutorial.jar`
+`java -jar build/libs/gradle-tutorial.jar`# Backtrace
