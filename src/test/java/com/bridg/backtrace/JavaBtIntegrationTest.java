@@ -5,7 +5,7 @@ import org.junit.Test;
 public class JavaBtIntegrationTest {
 
     @Test
-    public void verifyNoExceptionThrown() {
+    public void verifyNoExceptionThrown() throws IllegalAccessException {
         JavaBtIntegration.main(new String[]{});
     }
 }
